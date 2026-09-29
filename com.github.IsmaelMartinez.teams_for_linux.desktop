@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Teams for Linux
+Comment=Unofficial Microsoft Teams client for Linux using Electron. It uses the Web App and wraps it as a standalone application using Electron.
+Exec=/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=teams-for-linux --file-forwarding com.github.IsmaelMartinez.teams_for_linux @@u %U @@
+Icon=com.github.IsmaelMartinez.teams_for_linux
+StartupWMClass=com.github.IsmaelMartinez.teams_for_linux
+Type=Application
+Categories=Chat;Network;Office;
+X-GNOME-Autostart-enabled=true

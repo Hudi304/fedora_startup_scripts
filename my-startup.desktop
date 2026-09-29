@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=My Startup Script
+Exec=/usr/bin/python3 /home/hudi/automation_scripts/startup.py
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
