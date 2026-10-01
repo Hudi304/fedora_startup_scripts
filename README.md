@@ -45,3 +45,5 @@ exists instead of just copying `.desktop` files.
 - `dconf/auto-move-windows.ini` — the "which app goes to which workspace" rule
 - `dconf/smart-auto-move.ini` — which apps get their monitor/position restored (Slack, Teams only)
 - `setup.sh` — installs everything above, safe to re-run
+- `docs/monitor-placement.md` — full write-up: how monitor placement works, why, monitor
+  names, debugging commands, and fallbacks
